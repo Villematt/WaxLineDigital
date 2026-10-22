@@ -1,4 +1,4 @@
-# Kide Digital (KD)
+# Kajoste Studio (KS)
 
 Yrityksen verkkosivusto, joka on toteutettu HTML:llä, CSS:llä ja JavaScriptillä.
 
