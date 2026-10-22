@@ -1,4 +1,4 @@
-# Kajoste Studio (KS)
+# Kaarre Digital (KD)
 
 Yrityksen verkkosivusto, joka on toteutettu HTML:llä, CSS:llä ja JavaScriptillä.
 
